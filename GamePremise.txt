@@ -1,0 +1,1 @@
+Sunder is a text-based puzzle/mystery adventure. As you explore an abandoned outpost on an colonised outer world in search for a ship off the planet, you find mysterious logs around that depict the events that have occured. Recover parts to repair your ship and make it back off world, maybe with knowledge of what happened in hand.
