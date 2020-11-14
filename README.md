@@ -21,10 +21,10 @@ There are no other characters in the game other than the player themselves. Howe
 ### Player Goals
 The player must find and repair a ship to escape the planet. Once the player finds the ship, they can keep track of what items they still need to repair the ship by inspecting it. Once all items have been aquired they can take off and win the game.
 
-Throughout the game the player can also find 6 old report logs that give lore on what happened to the facility and tells why it is abandoned. These logs are located in:
-*The Residential Area
-*The Junction
-*The Radar Room
-*The Fuel Station
-*Two in the Repair Depot*
+Throughout the game the player can also find 6 old report logs that give lore on what happened to the facility and tells why it is abandoned. These logs are located in
+*The Residential Area*
+*The Junction*
+*The Radar Room*
+*The Fuel Station*
+and Two in *the Repair Depot*
 At the end of the game the game will tell you which ones you found and replay the text on them.
